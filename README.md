@@ -1,3 +1,11 @@
+## 📸 Screenshots
+
+| Feature | Screenshot |
+|---------|------------|
+| Main Interface | ![Main](screenshots/main-menu.png) |
+| Add Transaction | ![Transaction](screenshots/add-transaction.png) |
+| Reports | ![Reports](screenshots/reports.png) |
+
 # Enhanced Accounting Ledger Application
 
 A Java-based financial transaction management system that allows users to track deposits, payments, and generate comprehensive reports.
