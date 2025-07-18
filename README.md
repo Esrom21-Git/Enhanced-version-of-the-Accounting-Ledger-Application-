@@ -1,10 +1,6 @@
-## 📸 Screenshots
+![App Screenshot](https://github.com/yourusername/yourrepo/blob/main/screenshots/screenshot.png?raw=true)
+<img width="754" height="850" alt="image" src="https://github.com/user-attachments/assets/6be2ce5c-b4ed-47c8-be23-7ede6d292669" />
 
-| Feature | Screenshot |
-|---------|------------|
-| Main Interface | ![Main](screenshots/main-menu.png) |
-| Add Transaction | ![Transaction](screenshots/add-transaction.png) |
-| Reports | ![Reports](screenshots/reports.png) |
 
 # Enhanced Accounting Ledger Application
 
